@@ -7,7 +7,7 @@
 
 
 # Hi there! 👋
-<p align="justify">I'm a front-end developer. Currently very excited to understand a little more about the back and be able to generate an API and transform them into a nice and beautiful interface.</p>
+<p align="justify">I'm a front-end developer. Currently very excited to understand a little more about the backend and then be able to generate an API and transform them into a nice and beautiful interface.</p>
 
 <h3 align="left">Connect with me</h3>
 
