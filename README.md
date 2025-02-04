@@ -1,4 +1,3 @@
-<img style="margin-top: 4rem;" align="right" alt="Meu octocat" height="300" src="https://julianatsoc.com/wp-content/uploads/2023/08/octocat-1692232980558.png">
 <h1>
     <span>Juliana Costa</span>
 </h1>
