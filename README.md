@@ -1,7 +1,7 @@
 # Juliana Costa 
 
 
-### Hi there! 🤌
+### Hey, there! 🤌
 I'm a web developer, most comfortable on the front-end, but diving deeper into the backend world every day. I'm also a Systems Analysis and Development student, always curious about how everything connects. Lately, I’ve been exploring APIs, server logic, and getting a little too fascinated by DevOps—turns out, making things run smoothly is just as satisfying as making them look good! 🚀
 
 ## Connect with me 💌
@@ -27,5 +27,5 @@ I'm a web developer, most comfortable on the front-end, but diving deeper into t
 - Maybe I do love emojis... a little too much 💅🙃🦭 (yep. those are my favs)
 - The problems with my code are usually between the computer and the chair 😅💻
 - I start side projects faster than I finish them (but hey, the excitement counts, right? 😅)
-- Backend scares me a little, but that’s never stopped me before! 💪🏼🐺
+- Backend scares me a little, but that’s never stopped me before! 🐺🔱
 - 🫵🏻 **Use LINUX now** 🫵🏻
